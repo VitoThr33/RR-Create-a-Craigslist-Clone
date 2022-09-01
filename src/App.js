@@ -2,10 +2,10 @@
 import {postings} from './postings'
 // Import components
 import './App.css';
-import Searchbar from './searchbar.js';
-import Directory from './directory.js';
-import Gallery from './gallery.js';
-import Sidebar from './sidebar.js';
+import Searchbar from './components/searchbar.js';
+import Directory from './components/directory.js';
+import Gallery from './components/gallery.js';
+import Sidebar from './components/sidebar.js';
 
 const App = () => {
   return (
